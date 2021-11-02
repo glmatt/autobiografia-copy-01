@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Autobiografia
 sections:
   - section_id: hero
     type: section_hero
