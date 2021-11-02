@@ -8,7 +8,7 @@ sections:
     content: |
       Autobiografia di mio nonno Mario Virginio Matteucci
     actions:
-      - label: Get Started
+      - label: Chi era
         url: /docs
         style: primary
   - section_id: features
