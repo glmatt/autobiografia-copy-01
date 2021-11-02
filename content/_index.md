@@ -3,7 +3,7 @@ title: Autobiografia
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Mario Virginio Matteucci
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
